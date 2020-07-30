@@ -4,6 +4,8 @@
 
 Implementation of the VMZ App front end.
 
+The VMZ App shows traffic disorders in berlin on a map with the option of filtering them.
+
 ![VMZ App screenshot](https://github.com/bilal-bln/vmz-app-front-end/blob/master/VMZ_App_Scr.png)
 
 ## Install dependencies
