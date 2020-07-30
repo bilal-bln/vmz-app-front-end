@@ -1,24 +1,37 @@
-# frontend
+# VMZ App front end
 
-## Project setup
-```
-npm install
-```
+## Description
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Implementation of the VMZ App front end.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Install dependencies
 
-### Lints and fixes files
-```
-npm run lint
-```
+The latest LTS version of Node.js must be installed to run this software. Please visit [nodejs.org](https://nodejs.org/en/) to get the latest LTS version of Node.js.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Open the terminal and navigate to the "vmz-app-front-end" root directory on the command line:
+
+`$ cd "path/to/vmz-app-front-end"`
+
+Install dependencies using the Node package manager (**npm**):
+
+`$ npm install`
+
+## Compile and run with hot-reloads for development
+
+Open the terminal and navigate to the "vmz-app-front-end" root directory on the command line:
+
+`$ cd "path/to/vmz-app-front-end"`
+
+Run VMZ App front end using the Node package manager (**npm**):
+
+`$ npm run serve`
+
+## Compile and minifie for production:
+
+Open the terminal and navigate to the "vmz-app-front-end" root directory on the command line:
+
+`$ cd "path/to/vmz-app-front-end"`
+
+Compile VMZ App front end using the Node package manager (**npm**):
+
+`$ npm run build`
