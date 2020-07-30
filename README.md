@@ -4,6 +4,8 @@
 
 Implementation of the VMZ App front end.
 
+![VMZ App screenshot](https://github.com/bilal-bln/vmz-app-front-end/blob/master/VMZ_App_Scr.png)
+
 ## Install dependencies
 
 The latest LTS version of Node.js must be installed to run this software. Please visit [nodejs.org](https://nodejs.org/en/) to get the latest LTS version of Node.js.
