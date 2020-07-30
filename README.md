@@ -18,6 +18,8 @@ Install dependencies using the Node package manager (**npm**):
 
 ## Compile and run with hot-reloads for development
 
+The [VMZ App back end](https://github.com/bilal-bln/vmz-app-back-end) must be running for the VMZ App front end to work! Please follow the instructions on the [VMZ App back end GitHub page](https://github.com/bilal-bln/vmz-app-back-end).
+
 Open the terminal and navigate to the "vmz-app-front-end" root directory on the command line:
 
 `$ cd "path/to/vmz-app-front-end"`
@@ -25,6 +27,8 @@ Open the terminal and navigate to the "vmz-app-front-end" root directory on the 
 Run VMZ App front end using the Node package manager (**npm**):
 
 `$ npm run serve`
+
+Open your web browser and open **localhost:8080/** url.
 
 ## Compile and minifie for production:
 
