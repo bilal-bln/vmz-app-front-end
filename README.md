@@ -28,7 +28,7 @@ Run VMZ App front end using the Node package manager (**npm**):
 
 `$ npm run serve`
 
-Open your web browser and open **localhost:8080/** url.
+Open your web browser, type [localhost:8080/](localhost:8080/) in the address bar and press enter.
 
 ## Compile and minifie for production:
 
